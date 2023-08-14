@@ -64,6 +64,15 @@ p {
   text-decoration: none;
 }
 
+.nav-button:hover {
+  cursor: pointer;
+  background-color: #162542;
+}
+
+.nav-btn:hover {
+  color: #FFF;
+}
+
 /* Top Info Section */
 
 .top-info-content {
@@ -95,6 +104,11 @@ p {
   background-color: #F16718;
   border-radius: 10px;
   padding: .6rem .8rem;
+}
+
+.top-info-button:hover {
+  cursor: pointer;
+  background-color: #FF9B62;
 }
 
 .top-info-btn {
